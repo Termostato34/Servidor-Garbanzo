@@ -1,0 +1,288 @@
+[02:38:08] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[02:38:08] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) for Minecraft 1.21.1
+[02:38:08] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:38:09] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[02:38:09] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - SkinsRestorer (15.4.4), TabTPS (1.3.25)
+[02:38:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:38:16] [ServerMain/INFO]: Loaded 1290 recipes
+[02:38:16] [ServerMain/INFO]: Loaded 1399 advancements
+[02:38:17] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:38:17] [Server thread/INFO]: Loading properties
+[02:38:17] [Server thread/INFO]: This server is running Paper version 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[02:38:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:38:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:38:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:38:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:38:19] [Server thread/INFO]: Default game type: SURVIVAL
+[02:38:19] [Server thread/INFO]: Generating keypair
+[02:38:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:38:19] [Server thread/INFO]: Using epoll channel type
+[02:38:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:38:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:38:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[02:38:20] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
+[02:38:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:38:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[02:38:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:38:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[02:38:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:38:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:38:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:38:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:38:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:38:23] [Server thread/INFO]: Preparing level "world"
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:38:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:38:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:38:25] [Server thread/INFO]: Time elapsed: 1673 ms
+[02:38:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:38:27] [Server thread/INFO]: Time elapsed: 1545 ms
+[02:38:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:38:27] [Server thread/INFO]: Time elapsed: 73 ms
+[02:38:27] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
+[02:38:28] [Server thread/INFO]: [spark] Starting background profiler...
+[02:38:28] [Server thread/INFO]: Done preparing level "world" (5.092s)
+[02:38:28] [Server thread/INFO]: Running delayed init tasks
+[02:38:28] [Server thread/INFO]: Done (22.371s)! For help, type "help"
+[02:38:28] [Server thread/INFO]: Timings Reset
+[02:38:38] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
+[02:38:40] [Server thread/INFO]: Termostato34 joined the game
+[02:38:40] [Server thread/INFO]: Termostato34[/[0:0:0:0:0:0:0:1%0]:54094] logged in with entity id 122 at ([world]-371.6231687491539, 146.0, 370.8530901751698)
+[02:41:08] [Server thread/WARN]: Termostato34 moved too quickly! -0.007215514400499501,-0.5061351021062137,-10.854769035926779
+[02:42:57] [User Authenticator #1/INFO]: UUID of player Hannak4 is 7ff1266f-3515-3654-a23a-3846c8eaf708
+[02:42:59] [Server thread/INFO]: Hannak4 joined the game
+[02:42:59] [Server thread/INFO]: Hannak4[/[0:0:0:0:0:0:0:1%0]:56266] logged in with entity id 314 at ([world]-577.0897284918317, 110.0, 214.87062008597687)
+[02:44:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Hannak4> holaaaaaaaaaa
+[02:44:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> holaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[02:53:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Termostato34> q haces
+[02:53:40] [Server thread/INFO]: Termostato34 issued server command: /ping
+[02:55:58] [Async Chat Thread - #4/INFO]: [Not Secure] <Hannak4> HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:56:06] [Async Chat Thread - #4/INFO]: [Not Secure] <Hannak4> ando en la geoda
+[02:56:07] [Async Chat Thread - #4/INFO]: [Not Secure] <Termostato34> HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:59:41] [Async Chat Thread - #6/INFO]: [Not Secure] <Hannak4> amor q haces??
+[03:00:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> Tratando de volver a conseguir mis cosas
+[03:00:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Hannak4> donde moriste????
+[03:00:20] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> vacio
+[03:00:27] [Async Chat Thread - #6/INFO]: [Not Secure] <Hannak4> a
+[03:05:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Hannak4> amor hacemos una base temporal en la isla de brujas??
+[03:05:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Termostato34> dale dale
+[03:05:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Termostato34> dame un momento
+[03:09:03] [Async Chat Thread - #11/INFO]: [Not Secure] <Termostato34> amor
+[03:09:06] [Async Chat Thread - #11/INFO]: [Not Secure] <Termostato34> tienes lapis?
+[03:09:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Hannak4> dime
+[03:09:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Hannak4> no amor
+[03:10:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Hannak4> amor estas en casa??
+[03:10:38] [Async Chat Thread - #13/INFO]: [Not Secure] <Termostato34> sisi
+[03:10:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Hannak4> trae zanahorias porfii
+[03:10:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Hannak4> ya conseguí lapis
+[03:11:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Termostato34> medas¿
+[03:11:11] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> c:¡
+[03:11:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> cuanto tienes?
+[03:11:25] [Async Chat Thread - #14/INFO]: [Not Secure] <Hannak4> por donde??
+[03:11:35] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> :O
+[03:12:23] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> cuanto tienes?
+[03:12:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Hannak4> 34
+[03:12:53] [Async Chat Thread - #15/INFO]: [Not Secure] <Termostato34> perfecto?
+[03:12:58] [Async Chat Thread - #15/INFO]: [Not Secure] <Termostato34> perfecto*
+[03:13:06] [Async Chat Thread - #15/INFO]: [Not Secure] <Termostato34> ven
+[03:14:08] [Async Chat Thread - #16/INFO]: [Not Secure] <Termostato34> donde tas
+[03:15:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Hannak4> en la isla de brujas atrapada
+[03:15:30] [Async Chat Thread - #18/INFO]: [Not Secure] <Termostato34> luego?
+[03:15:41] [Async Chat Thread - #18/INFO]: [Not Secure] <Termostato34> sal y hago pasar el dia
+[03:15:42] [Async Chat Thread - #18/INFO]: [Not Secure] <Hannak4> no antorche una parte de la isla
+[03:15:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Hannak4> y me atacan xd
+[03:15:57] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> salte y hago de dia
+[03:16:21] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> amor
+[03:16:33] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> toi mumiendo
+[03:16:43] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> voy
+[03:17:40] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> aaaaaaa
+[03:17:42] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> no me deja momir
+[03:17:53] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> amor
+[03:17:56] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> q
+[03:17:58] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> sal del server
+[03:18:02] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> pq?
+[03:18:09] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> por un momento
+[03:18:15] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> oki
+[03:18:18] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> 5 seg
+[03:18:46] [Server thread/INFO]: Hannak4 lost connection: Timed out
+[03:18:46] [Server thread/INFO]: Hannak4 left the game
+[03:18:49] [User Authenticator #2/INFO]: UUID of player Hannak4 is 7ff1266f-3515-3654-a23a-3846c8eaf708
+[03:18:50] [Server thread/INFO]: Hannak4 joined the game
+[03:18:50] [Server thread/INFO]: Hannak4[/[0:0:0:0:0:0:0:1%0]:45138] logged in with entity id 2997 at ([world]-554.2841462004244, 152.0625, 204.1532907135136)
+[03:18:56] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> holi
+[03:19:00] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> holaaam
+[03:19:23] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> para que?
+[03:19:25] [Async Chat Thread - #19/INFO]: [Not Secure] <Hannak4> hsasja
+[03:19:32] [Async Chat Thread - #19/INFO]: [Not Secure] <Termostato34> para hacer de dia
+[03:22:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Hannak4> amol revisa wpp
+[03:23:45] [Async Chat Thread - #22/INFO]: [Not Secure] <Termostato34> amor tas bien?
+[03:29:09] [Async Chat Thread - #24/INFO]: [Not Secure] <Termostato34> anir donde vas
+[03:29:13] [Async Chat Thread - #24/INFO]: [Not Secure] <Termostato34> amor*
+[03:39:27] [Async Chat Thread - #26/INFO]: [Not Secure] <Hannak4> dimee
+[03:39:53] [Async Chat Thread - #26/INFO]: [Not Secure] <Hannak4> necesitas que vaya??
+[03:40:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Termostato34> lapis
+[03:40:24] [Async Chat Thread - #27/INFO]: [Not Secure] <Hannak4> helloooo
+[03:40:30] [Async Chat Thread - #27/INFO]: [Not Secure] <Termostato34> olaaaaa
+[03:40:33] [Async Chat Thread - #27/INFO]: [Not Secure] <Termostato34> perfecto
+[03:40:36] [Async Chat Thread - #27/INFO]: [Not Secure] <Termostato34> gachas
+[03:40:38] [Async Chat Thread - #27/INFO]: [Not Secure] <Termostato34> te amo
+[03:40:39] [Async Chat Thread - #27/INFO]: [Not Secure] <Termostato34> muak
+[03:47:51] [Async Chat Thread - #28/INFO]: [Not Secure] <Hannak4> anir
+[03:47:53] [Async Chat Thread - #28/INFO]: [Not Secure] <Hannak4> amor
+[03:47:55] [Async Chat Thread - #29/INFO]: [Not Secure] <Termostato34> dime
+[03:47:56] [Async Chat Thread - #28/INFO]: [Not Secure] <Hannak4> mazahoria
+[03:48:06] [Async Chat Thread - #29/INFO]: [Not Secure] <Termostato34> mazahoria
+[03:48:09] [Async Chat Thread - #29/INFO]: [Not Secure] <Termostato34> manzana
+[03:48:15] [Async Chat Thread - #29/INFO]: [Not Secure] <Termostato34> y nazahoria
+[03:48:16] [Async Chat Thread - #29/INFO]: [Not Secure] <Hannak4> zanahoria
+[03:49:41] [Async Chat Thread - #30/INFO]: [Not Secure] <Termostato34> te lelvo?
+[03:49:45] [Async Chat Thread - #30/INFO]: [Not Secure] <Termostato34> llevo?
+[03:56:02] [Async Chat Thread - #32/INFO]: [Not Secure] <Termostato34> amor
+[03:56:05] [Async Chat Thread - #32/INFO]: [Not Secure] <Hannak4> dime
+[03:56:06] [Async Chat Thread - #32/INFO]: [Not Secure] <Termostato34> voy a encantar una espada
+[03:56:12] [Async Chat Thread - #32/INFO]: [Not Secure] <Hannak4> ajam
+[04:05:37] [Server thread/INFO]: Termostato34 issued server command: /give Termostato34 minecraft:diamond_sword[minecraft:enchantments={levels:{'sharpness':5,'smite':4,'sweeping_edge':3,'fire_aspect':3,'unbreaking':4}}]
+[04:05:37] [Server thread/INFO]: [Termostato34: Gave 1 [Diamond Sword] to Termostato34]
+[04:06:01] [Async Chat Thread - #34/INFO]: [Not Secure] <Termostato34> q haces?
+[04:06:09] [Async Chat Thread - #34/INFO]: [Not Secure] <Hannak4> salvando mi vida
+[04:06:15] [Async Chat Thread - #34/INFO]: [Not Secure] <Termostato34> pq
+[04:06:38] [Async Chat Thread - #34/INFO]: [Not Secure] <Hannak4> habia un generador de brujas dentro de una casa oculto y cuando entre había varias brujas casi muero
+[04:06:49] [Async Chat Thread - #34/INFO]: [Not Secure] <Termostato34> pero ahora tas bien?
+[04:07:01] [Async Chat Thread - #34/INFO]: [Not Secure] <Termostato34> necesitas ayuda?
+[04:07:29] [Async Chat Thread - #34/INFO]: [Not Secure] <Hannak4> no amor
+[04:07:32] [Async Chat Thread - #34/INFO]: [Not Secure] <Hannak4> ya pasó
+[04:10:10] [Async Chat Thread - #36/INFO]: [Not Secure] <Hannak4> amor tu has ido al avión?
+[04:10:13] [Async Chat Thread - #36/INFO]: [Not Secure] <Termostato34> no
+[04:14:09] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> amor
+[04:14:15] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> en brujas hay mas lapis=
+[04:14:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> ??
+[04:15:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Hannak4> no amor
+[04:15:27] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> me refiero debajo
+[04:15:32] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> en la piedra
+[04:15:35] [Async Chat Thread - #38/INFO]: [Not Secure] <Termostato34> dentro de la isla
+[04:18:35] [Async Chat Thread - #40/INFO]: [Not Secure] <Hannak4> no amor
+[04:29:35] [Async Chat Thread - #42/INFO]: [Not Secure] <Hannak4> amor no sé que hacer xd
+[04:31:13] [Async Chat Thread - #44/INFO]: [Not Secure] <Termostato34> luego?
+[04:31:20] [Async Chat Thread - #44/INFO]: [Not Secure] <Hannak4> no sé que hacer jajaja
+[04:31:30] [Async Chat Thread - #44/INFO]: [Not Secure] <Termostato34> ya tengo una espada tocha
+[04:31:30] [Async Chat Thread - #44/INFO]: [Not Secure] <Hannak4> se me acabaron las ideas
+[04:31:38] [Async Chat Thread - #44/INFO]: [Not Secure] <Termostato34> te deje una media armadura en casa
+[04:31:42] [Async Chat Thread - #44/INFO]: [Not Secure] <Termostato34> en un shulker afuera
+[04:31:51] [Async Chat Thread - #44/INFO]: [Not Secure] <Termostato34> y si quieres ven a desierto y matas bichos
+[04:56:41] [Async Chat Thread - #46/INFO]: [Not Secure] <Hannak4> amor tengo lapis
+[04:56:44] [Async Chat Thread - #46/INFO]: [Not Secure] <Hannak4> necesitas?
+[04:56:52] [Async Chat Thread - #46/INFO]: [Not Secure] <Termostato34> donde la conseguiste?
+[04:57:30] [Async Chat Thread - #46/INFO]: [Not Secure] <Hannak4> me puse a minar alrededor de la isla
+[04:57:41] [Async Chat Thread - #46/INFO]: [Not Secure] <Termostato34> amor
+[04:57:45] [Async Chat Thread - #46/INFO]: [Not Secure] <Termostato34> yo tenia fortuna 3
+[05:00:51] [Async Chat Thread - #48/INFO]: [Not Secure] <Hannak4> nooooooooooo
+[05:00:57] [Async Chat Thread - #48/INFO]: [Not Secure] <Hannak4> ya que
+[05:02:32] [Async Chat Thread - #50/INFO]: [Not Secure] <Termostato34> ontas
+[05:04:15] [Server thread/INFO]: Termostato34 has made the advancement [Enchanter]
+[05:05:57] [Async Chat Thread - #52/INFO]: [Not Secure] <Hannak4> ontastu
+[05:06:01] [Async Chat Thread - #52/INFO]: [Not Secure] <Termostato34> casa
+[05:07:40] [Async Chat Thread - #54/INFO]: [Not Secure] <Termostato34> alaverga
+[05:07:53] [Async Chat Thread - #55/INFO]: [Not Secure] <Termostato34> miraaa
+[05:09:10] [Async Chat Thread - #56/INFO]: [Not Secure] <Termostato34> que haces?
+[05:09:52] [Async Chat Thread - #56/INFO]: [Not Secure] <Hannak4> que miro???
+[05:10:02] [Async Chat Thread - #56/INFO]: [Not Secure] <Termostato34> ya llegaste a la casa?
+[05:10:23] [Async Chat Thread - #56/INFO]: [Not Secure] <Termostato34> donde estas?
+[05:10:49] [Async Chat Thread - #56/INFO]: [Not Secure] <Hannak4> voy para allá
+[05:10:58] [Async Chat Thread - #57/INFO]: [Not Secure] <Hannak4> me amañe en la isla de las brujas
+[05:13:05] [Async Chat Thread - #58/INFO]: [Not Secure] <Termostato34> twwengo cositas para ti
+[05:13:28] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> amor
+[05:13:32] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> dime
+[05:13:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> quieres que permitamos el tp?
+[05:13:45] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> POR FAVOOOOOR
+[05:13:50] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> ajajaajajaj
+[05:13:58] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> peroo dime mujer
+[05:14:04] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> SISIISISISIS
+[05:14:12] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> si quieres tambien pongo un warp para cada isla
+[05:14:19] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> pero eso ya seria mañana
+[05:14:23] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> osea?
+[05:14:36] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> y ya es de mañana, feliz viernes amor <3
+[05:14:38] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> que te puedas hacer tp a cada isla
+[05:14:43] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> feliz vierneees
+[05:15:04] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> si quieres pongo un plugin de warps
+[05:15:30] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> me puedo tpear a ti?
+[05:15:34] [Async Chat Thread - #59/INFO]: [Not Secure] <Hannak4> no
+[05:15:38] [Async Chat Thread - #59/INFO]: [Not Secure] <Termostato34> :c
+[05:17:00] [Async Chat Thread - #60/INFO]: [Not Secure] <Hannak4> ya
+[05:17:11] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[05:17:11] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[05:17:22] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> CORRREEEE
+[05:17:35] [Server thread/INFO]: Termostato34 issued server command: /tps
+[05:17:40] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[05:18:20] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> ven
+[05:18:21] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> toma
+[05:19:02] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> saca lapis con el pico si puedes
+[05:19:06] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> y tomaaaa
+[05:19:40] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> por fin
+[05:19:42] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> decentes
+[05:19:47] [Async Chat Thread - #60/INFO]: [Not Secure] <Termostato34> rimcooo
+[05:21:18] [Async Chat Thread - #62/INFO]: [Not Secure] <Hannak4> amor te parece si seguimos mañana?
+[05:21:25] [Async Chat Thread - #62/INFO]: [Not Secure] <Termostato34> dale amor
+[05:21:34] [Async Chat Thread - #62/INFO]: [Not Secure] <Termostato34> yo me quedare 20 minutos mas
+[05:22:11] [Async Chat Thread - #62/INFO]: [Not Secure] <Hannak4> daleeee
+[05:22:15] [Async Chat Thread - #62/INFO]: [Not Secure] <Termostato34> te amooooooo
+[05:22:19] [Async Chat Thread - #62/INFO]: [Not Secure] <Termostato34> que descanses mi amor
+[05:22:24] [Async Chat Thread - #62/INFO]: [Not Secure] <Hannak4> es que la verdad si quiero el tp hacia las islas
+[05:22:38] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> hay muchas cosas que necesito de la isla de brujas
+[05:22:40] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> ssiisis
+[05:22:48] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> hablamos por wpp??
+[05:23:07] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> aún no tengo sueño pero el pc esta demasiado caliente y me preocupa
+[05:23:20] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> ya necesitas el cooler
+[05:23:29] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> sisisi
+[05:23:42] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> pero primero necesito trabajo
+[05:24:28] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> hablamoooos por wpp
+[05:24:31] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> te amoooo
+[05:24:39] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> te amoooooooooooooo
+[05:24:41] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> muchooooooooooooooooo
+[05:24:45] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> <3<33<3<3<3<3<3<3<3<3<3<3<3
+[05:24:46] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> gracias por el rato, me encanta jugar contigooo
+[05:24:56] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> <3<3<3<3<3<<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3
+[05:24:59] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> gracias mi vidaaaa
+[05:25:00] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> baaaaaaiiiiiii
+[05:25:03] [Async Chat Thread - #63/INFO]: [Not Secure] <Hannak4> te amoooooooooooooooo
+[05:25:04] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> te adoroooo
+[05:25:06] [Async Chat Thread - #63/INFO]: [Not Secure] <Termostato34> mucho
+[05:25:40] [Server thread/INFO]: Hannak4 lost connection: Timed out
+[05:25:40] [Server thread/INFO]: Hannak4 left the game
+[06:04:05] [Server thread/INFO]: Termostato34 lost connection: Timed out
+[06:04:05] [Server thread/INFO]: Termostato34 left the game
+[06:04:42] [Server thread/INFO]: Stopping server
+[06:04:42] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.25
+[06:04:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[06:04:42] [Server thread/INFO]: Saving players
+[06:04:42] [Server thread/INFO]: Saving worlds
+[06:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 42 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[06:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 35 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[06:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:04:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[06:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
